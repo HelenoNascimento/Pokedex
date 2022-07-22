@@ -3,7 +3,8 @@
 <br>
 Confira a pokedex <a href="https://helenonascimento.github.io/Pokedex/">Aqui </a>
 <br>
-<br>
-![image](https://user-images.githubusercontent.com/20055120/180430114-f2553a2d-1965-4ec5-abe6-1a4a6e9f6f25.png)
-<br>
+
+![image](https://user-images.githubusercontent.com/20055120/180430197-47a03f08-69e3-4751-b5d0-e3e4efe89887.png)
+
+<br><br>
 confira o tuturial  <a href="https://www.youtube.com/watch?v=SjtdH3dWLa8&ab_channel=ManualdoDev">Aqui </a>
